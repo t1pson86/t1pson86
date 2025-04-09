@@ -46,6 +46,7 @@
 <h2>📊 Статистика на GitHub</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=t1pson86&show_icons=true&theme=vision-friendly-dark" width="45%">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1pson86&theme=vision-friendly-dark" width="45%">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=t1pson86&theme=github-dark&hide_border=true" width="90%">
