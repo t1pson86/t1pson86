@@ -1,11 +1,8 @@
-<div align="center">
-  <h1>👋 Привет, я t1pson!</h1>
-  <p>{"status": 200 OK}</p>
-  <p>Добро пожаловать в мой профиль GitHub! Я Python backend-разработчик с фокусом на создание масштабируемых и эффективных веб-приложений. Постоянно изучаю новые технологии и совершенствую свои навыки.</p>
-<br>
-<br>
-<br>
-<h2>🛠 Технологии</h2>
+<h1>👋 Привет, я t1pson!</h1>
+<p>Добро пожаловать в мой профиль GitHub! Я Python backend-разработчик с фокусом на создание масштабируемых и эффективных веб-приложений. Постоянно изучаю новые технологии и совершенствую свои навыки.</p>
+
+
+<h2>🛠 Технологический стек</h2>
 
 <h3>Языки программирования</h3>
 <p>
@@ -45,30 +42,18 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop">
 </p>
-<br>
-<br>
-<br>
 
-## 📊 GitHub Stats
+<h2>📊 Статистика на GitHub</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=t1pson86&show_icons=true&theme=vision-friendly-dark" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t1pson86&theme=vision-friendly-dark" width="45%">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=t1pson86&show_icons=true&theme=vision-friendly-dark" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=t1pson86&theme=vision-friendly-dark" width="45%">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t1pson86&theme=github-dark&hide_border=true" width="90%">
-</div>
-<br>
-<br>
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=t1pson86&theme=github-dark&hide_border=true" width="90%">
 
-## 📫 Связь со мной
+<h2>📫 Связь со мной</h2>
 
 <p>
   <a href="https://t.me/tipSONnn" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-
-</div>
